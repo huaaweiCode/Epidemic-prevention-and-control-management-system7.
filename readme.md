@@ -1,10 +1,6 @@
+
 # 疫情防控管理系统
 
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**疫情7** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -14,7 +10,7 @@
 
 用户：登录注册、物资、疫苗、疫站查看
 
-![架构图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171430130.jpg)
+![架构图](https://img-blog.csdnimg.cn/img_convert/b26d4bc1c6cb20aa12aff8b67bef107e.jpeg)
 
 
 ## 2、项目技术
@@ -36,39 +32,31 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171431245.jpg)
+![登录](https://img-blog.csdnimg.cn/img_convert/8c313a013a48a004b56f3704fa39465b.jpeg)
 
 ### 4.2 用户模块
 
-![用户功能界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171432907.jpg)
+![用户功能界面](https://img-blog.csdnimg.cn/img_convert/6d8909b971134fe1d7901b53a9ca8138.jpeg)
 
 ### 4.3 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171432923.jpg)
+![管理员-用户管理](https://img-blog.csdnimg.cn/img_convert/6bee3cfaafbc9ebf0425ee95f6b05b65.jpeg)
 
-![管理员-疫站管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171432894.jpg)
+![管理员-疫站管理](https://img-blog.csdnimg.cn/img_convert/b8a9e8105468bd907b8cd48e0fc7b330.jpeg)
 
-![管理员-医护管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171432768.jpg)
+![管理员-医护管理](https://img-blog.csdnimg.cn/img_convert/fbdc6b8fb3a9eb0f24a5ef23e0c577f5.jpeg)
 
-![管理员-物资管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171432101.jpg)
+![管理员-物资管理](https://img-blog.csdnimg.cn/img_convert/4d2297c803d6bc893488a7eda310798c.jpeg)
 
-![管理员-疫苗管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171432694.jpg)
+![管理员-疫苗管理](https://img-blog.csdnimg.cn/img_convert/f4ba74a6817602dbfdd627ea592cb5e1.jpeg)
 
-![用户功能界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171432450.jpg)
+![用户功能界面](https://img-blog.csdnimg.cn/img_convert/2b155592de3ae7ec7389eb0383929183.jpeg)
 
 ### 4.4 设计报告文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211171432581.jpg)
+![文档目录](https://img-blog.csdnimg.cn/img_convert/ebccb9d696e6b5948d64bdfb0f559358.jpeg)
+### 获取方式&视频演示
 
-## 5、视频演示
+下方扫一下，回复关键词：疫情
 
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**疫情7** ，获取完整版源码
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+![gitee](https://img-blog.csdnimg.cn/img_convert/2e5404cae6fed9e9cdb5907bc0cf67ef.png)
